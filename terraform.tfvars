@@ -7,16 +7,4 @@ rg_name = {
     name     = "myrg02"
     location = "central india"
   }
-  Rg3 = {
-    name     = "myrg03"
-    location = "central india"
-  }
-  Rg4 = {
-    name     = "myrg04"
-    location = "central india"
-  }
-  Rg5 = {
-    name     = "myrg05"
-    location = "central india"
-  }
 }
